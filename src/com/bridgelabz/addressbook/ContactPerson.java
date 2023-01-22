@@ -75,6 +75,7 @@ public class ContactPerson {
 
 	@Override
 	// ContactPerson constructor
+	
 	public String toString() {
 		return "ContactPerson [firstName=" + firstName + ", lastName=" + lastName + ", email=" + email + ", address="
 				+ address + ", city=" + city + ", state=" + state + ", zip=" + zip + ", mobile=" + mobile + "]";
